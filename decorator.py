@@ -26,4 +26,4 @@ def decor(num):   #1 4
 def num(): #3     #7
     return 10
 #num=decor(num)   
-print(num())    #8   done
+print(num())    #8   done done done done
